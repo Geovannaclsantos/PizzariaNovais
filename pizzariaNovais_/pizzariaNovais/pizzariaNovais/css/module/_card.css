@@ -1,0 +1,29 @@
+.card{
+    margin-left: 36px;
+    width: 200px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 8px;
+    padding: 32px;
+}
+
+.card_verde_menta{
+    background-color: aquamarine;
+}
+
+.card_rosa_pastel{
+    background-color: plum;
+}
+.card_pessego{
+    background-color: salmon;
+}
+.imagem_pizza{
+    width: 180px;
+    height: 180px;
+}
+.cards{
+    margin: 250px;
+    display: flex;
+}
